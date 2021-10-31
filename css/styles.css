@@ -812,6 +812,10 @@ header {
   justify-content: center;
 }
 
+.modal-close{
+  fill: #000000
+}
+
 .backdrop.is-hidden {
   visibility: hidden;
   opacity: 0;
