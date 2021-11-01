@@ -810,10 +810,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.modal-close{
-  fill: #000000
+  fill: #000000;
 }
 
 .backdrop.is-hidden {
